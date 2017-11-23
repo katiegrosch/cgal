@@ -1,0 +1,3 @@
+/Users/katie.grosch/GitHub/cgal/CMakeFiles/rebuild_cache.dir
+/Users/katie.grosch/GitHub/cgal/CMakeFiles/edit_cache.dir
+/Users/katie.grosch/GitHub/cgal/CMakeFiles/main.dir
