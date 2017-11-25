@@ -124,6 +124,15 @@ CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Point_2_Ray_2_intersecti
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Point_2_Segment_2_intersection.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Point_2_Triangle_2_intersection.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Point_3.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_algorithms_impl.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_edge_circulator.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_edge_iterator.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_impl.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_simplicity.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/Polygon_2_vertex_circulator.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2/polygon_assertions.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Polygon_2_algorithms.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Profile_counter.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Quotient_fwd.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/Rational_traits.h
@@ -181,6 +190,8 @@ CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/basic.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/basic_classes.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/bbox_intersection_3.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/boost/iterator/transform_iterator.hpp
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/circulator.h
+CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/circulator_bases.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/compiler_config.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/config.h
 CMakeFiles/main.dir/main.cpp.o: /usr/local/include/CGAL/constant.h

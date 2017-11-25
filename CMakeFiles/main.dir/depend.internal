@@ -125,6 +125,15 @@ CMakeFiles/main.dir/main.cpp.o
  /usr/local/include/CGAL/Point_2_Segment_2_intersection.h
  /usr/local/include/CGAL/Point_2_Triangle_2_intersection.h
  /usr/local/include/CGAL/Point_3.h
+ /usr/local/include/CGAL/Polygon_2.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_algorithms_impl.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_edge_circulator.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_edge_iterator.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_impl.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_simplicity.h
+ /usr/local/include/CGAL/Polygon_2/Polygon_2_vertex_circulator.h
+ /usr/local/include/CGAL/Polygon_2/polygon_assertions.h
+ /usr/local/include/CGAL/Polygon_2_algorithms.h
  /usr/local/include/CGAL/Profile_counter.h
  /usr/local/include/CGAL/Quotient_fwd.h
  /usr/local/include/CGAL/Rational_traits.h
@@ -182,6 +191,8 @@ CMakeFiles/main.dir/main.cpp.o
  /usr/local/include/CGAL/basic_classes.h
  /usr/local/include/CGAL/bbox_intersection_3.h
  /usr/local/include/CGAL/boost/iterator/transform_iterator.hpp
+ /usr/local/include/CGAL/circulator.h
+ /usr/local/include/CGAL/circulator_bases.h
  /usr/local/include/CGAL/compiler_config.h
  /usr/local/include/CGAL/config.h
  /usr/local/include/CGAL/constant.h
