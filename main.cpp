@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 using namespace std;
 #include <CGAL/Simple_cartesian.h>
 #include <CGAL/Polygon_2.h>
@@ -8,13 +9,15 @@ typedef Kernel::Point_2 Point_2;
 typedef Kernel::Segment_2 Segment_2;
 typedef CGAL::Polygon_2<Kernel> Polygon_2;
 
+void read_from_file(string filename);
+
 int main()
 {
-  while (false) {
-    int x1, y1;
-    cin >> x1 >> y1;
-    Point_2 pt(x1, y1);
-  }
+  string filename;
+  cout << "What is the file name?\n";
+  cin >> filename;
+
+  read_from_file(filename);
 
   Point_2 p(1,1), q(10,10), m(5,9);
   cout << "point p = " << p << endl;
@@ -62,3 +65,23 @@ int main()
 
   return 0;
 }
+
+void read_from_file(string filename){
+  ifstream infile;
+  infile.open(filename.c_str());
+  string next_point;
+
+  while (!infile.eof()){
+    infile >> next_point;
+    cout << next_point << endl;
+  }
+
+  return;
+}
+
+
+
+
+
+
+
